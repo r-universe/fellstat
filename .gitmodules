@@ -5,3 +5,6 @@
 [submodule "ipc"]
 	path = ipc
 	url = https://github.com/fellstat/ipc
+[submodule "shinyrecap"]
+	path = shinyrecap
+	url = https://github.com/fellstat/shinyrecap
